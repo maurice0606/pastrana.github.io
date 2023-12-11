@@ -1,0 +1,140 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/Untitleddesign.jpg");
+  background-position: 39.88% 50%;
+  min-height: 1011px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: OPTIImprovNewWideNine;
+  font-size: 2.25rem;
+  margin: 159px -198px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  font-weight: 700;
+  --radius: 25px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 45px auto 0;
+  padding: 21px 182px 22px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 2.125em;
+}
+
+.u-section-1 .u-btn-2 {
+  letter-spacing: 1px;
+  background-image: none;
+  --radius: 25px;
+  font-weight: 700;
+  text-transform: none;
+  margin: 38px auto 0;
+  padding: 21px 117px 21px 116px;
+}
+
+.u-section-1 .u-icon-2 {
+  font-size: 2.125em;
+}
+
+.u-section-1 .u-btn-3 {
+  letter-spacing: 1px;
+  background-image: none;
+  font-weight: 700;
+  --radius: 25px;
+  text-transform: none;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 38px auto 0;
+  padding: 22px 183px 23px 182px;
+}
+
+.u-section-1 .u-icon-3 {
+  font-size: 2.125em;
+}
+
+.u-section-1 .u-btn-4 {
+  letter-spacing: 1px;
+  background-image: none;
+  font-weight: 700;
+  --radius: 25px;
+  text-transform: none;
+  margin: 31px auto 0;
+  padding: 23px 182px;
+}
+
+.u-section-1 .u-icon-4 {
+  font-size: 2.125em;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: OPTIImprovNewWideNine;
+  font-size: 6rem;
+  margin: 75px calc(((100% - 1140px) / 2) + -346px) 60px calc(((100% - 1140px) / 2) + -296px);
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 834px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3.75rem;
+    margin-left: calc(((100% - 940px) / 2));
+    margin-right: calc(((100% - 940px) / 2));
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 639px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 720px) / 2));
+    margin-right: calc(((100% - 720px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 479px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3rem;
+    margin-left: calc(((100% - 540px) / 2));
+    margin-right: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 302px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 2.25rem;
+    margin-left: calc(((100% - 340px) / 2));
+    margin-right: calc(((100% - 340px) / 2));
+  }
+}@font-face {
+  font-family: 'OPTIImprovNewWideNine';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/OPTIImprovNewWideNine.otf);
+}
